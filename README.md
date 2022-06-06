@@ -21,3 +21,4 @@ Ahora, iniciamos Virtual Box siguiendo los pasos:
 ![Alt Image text](https://i.postimg.cc/K8S1G7n3/Captura-de-pantalla-32.png)
 ![Alt Image text](https://i.postimg.cc/jS1tqRVg/Captura-de-pantalla-33.png)
 ![Alt Image text](https://i.postimg.cc/054631jf/Captura-de-pantalla-34.png)
+De esta manera, ya tendríamos Docker instalado en Alpine.
