@@ -9,7 +9,7 @@ Nos descargamos Virtual Box:
 Nos descargamos Alpine:
 ![Alt Image text](https://i.postimg.cc/jdZj3KJ8/Captura-de-pantalla-46.png)
 Ahora, iniciamos Virtual Box siguiendo los pasos:
-![InicioVirtualBox](https://i.postimg.cc/Dy2ZcmmJ/Captura-de-pantalla-47.png)
+![Alt Image text](https://i.postimg.cc/Dy2ZcmmJ/Captura-de-pantalla-47.png)
 ![Alt Image text](https://i.postimg.cc/8CGDfjY5/Captura-de-pantalla-22.png)
 ![Alt Image text](https://i.postimg.cc/DwLnzqBH/Captura-de-pantalla-23.png)
 ![Alt Image text](https://i.postimg.cc/HxZCN3kc/Captura-de-pantalla-24.png)
